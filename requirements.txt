@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+numpy
+scipy
+pillow
+gradio>=4.44.1
