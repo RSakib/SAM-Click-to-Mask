@@ -1,6 +1,6 @@
 # 🟢 Click-to-Mask: SAM2 Interactive Segmentation Tool
 
-Click-to-Mask** is essentially a better Magic Wand tool that is powered by Meta's **Segment Anything 2 (SAM2)** model. This interactive Gradio web application lets you instantly isolate, accumulate, clean, and export transparent PNG object layers simply by clicking on the image that you upload. This is best used when trying to separate a focal subject from a busy background.
+**Click-to-Mask** is essentially a better Magic Wand tool that is powered by Meta's **Segment Anything 2 (SAM2)** model. This interactive Gradio web application lets you instantly isolate, accumulate, clean, and export transparent PNG object layers simply by clicking on the image that you upload. This is best used when trying to separate a focal subject from a busy background.
 
 ### 🌐 [Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/RSakib/SAM-interactive-click-to-PNG)
 
